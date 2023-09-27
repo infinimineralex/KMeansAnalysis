@@ -1,0 +1,26 @@
+How many clusters should there be? (Write below)
+What's the name of the file we're using?
+Running the algorithm with this many data points: 244
+What test number is this? 
+The centroid coordinates are: 
+Centroid #1: 
+X: 9.26667
+Y: 125.266
+Centroid #2: 
+X: 37.704
+Y: 19.1483
+Centroid #3: 
+X: 18.2183
+Y: -70.1
+Centroid #4: 
+X: -13.4814
+Y: -172.15
+Centroid #5: 
+X: -11.8549
+Y: 33.3735
+Centroid #6: 
+X: -21.2067
+Y: -145.541
+Centroid #7: 
+X: -30.6664
+Y: -59.5567
